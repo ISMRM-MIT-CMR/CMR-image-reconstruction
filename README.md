@@ -11,6 +11,14 @@ The work uses the [MERLIN](https://github.com/midas-tum/merlin) package and inte
 ## Getting started
 You may either run the Jupyter notebook locally on your laptop (computational demand is low) or via 
 
-Google Colab: 
-
-Binder:
+### Google Colab
+Solution: <a target="_blank" href="https://colab.research.google.com/github/ISMRM-MIT-CMR/CMR-image-reconstruction/tree/master/HandsOn_MRI_reconstruction.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a><br/>
+Exercise: <a target="_blank" href="https://colab.research.google.com/github/ISMRM-MIT-CMR/CMR-image-reconstruction/tree/master/HandsOn_MRI_reconstruction_exercise.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+<br/>
+### Binder
+Solution: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ISMRM-MIT-CMR/CMR-image-reconstruction/master?urlpath=%2Fdoc%2Ftree%2FHandsOn_MRI_reconstruction.ipynb) <br/>
+Exercise: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ISMRM-MIT-CMR/CMR-image-reconstruction/master?urlpath=%2Fdoc%2Ftree%2FHandsOn_MRI_reconstruction_exercise.ipynb) 
