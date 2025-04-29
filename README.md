@@ -12,10 +12,10 @@ The work uses the [MERLIN](https://github.com/midas-tum/merlin) package and inte
 You may either run the Jupyter notebook locally on your laptop (computational demand is low) or via 
 
 ### Google Colab
-Solution: <a target="_blank" href="https://colab.research.google.com/github/ISMRM-MIT-CMR/CMR-image-reconstruction/tree/master/HandsOn_MRI_reconstruction.ipynb">
+Solution: <a target="_blank" href="https://colab.research.google.com/github/ISMRM-MIT-CMR/CMR-image-reconstruction/blob/master/HandsOn_MRI_reconstruction.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a><br/>
-Exercise: <a target="_blank" href="https://colab.research.google.com/github/ISMRM-MIT-CMR/CMR-image-reconstruction/tree/master/HandsOn_MRI_reconstruction_exercise.ipynb">
+Exercise: <a target="_blank" href="https://colab.research.google.com/github/ISMRM-MIT-CMR/CMR-image-reconstruction/blob/master/HandsOn_MRI_reconstruction_exercise.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 <br/>
