@@ -112,4 +112,3 @@ dependencies:
       - tzdata==2025.2
       - urllib3==2.4.0
       - xmltodict==0.14.2
-prefix: /Users/thomas/miniconda3/envs/ismrm25
